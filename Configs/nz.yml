@@ -41,8 +41,8 @@ lora_target_modules:
   - k_proj
   - o_proj
 
-wandb_project: uqam-source_of_injury
-wandb_entity: hamelsmu
+wandb_project: source_of_injury
+wandb_entity: uqam-org
 
 gradient_accumulation_steps: 4
 micro_batch_size: 16
