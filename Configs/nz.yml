@@ -12,7 +12,7 @@ data_seed: 49
 seed: 49
 
 datasets:
-  - path: /workspaces/source-of-injury/data/synthec_data_modified.jsonl
+  - path: NimaZahedinameghi/injury-source
     type: sharegpt
     conversation: alpaca
 dataset_prepared_path: last_run_prepared
