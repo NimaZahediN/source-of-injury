@@ -117,36 +117,19 @@ save_safetensors: true
 
 [<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Visualize in Weights & Biases" width="200" height="32"/>](https://wandb.ai/uqam/source_of_injury/runs/2q7kaw2k)
 
-Author
-nima-zahedinameghi-1
-State
-Finished
-Start time
-July 3rd, 2024 at 9:34:35 pm
-Duration
-7m 15s
-Run path
-uqam/source_of_injury/2q7kaw2k
-Hostname
-0082db4fcf1e
-OS
-Linux-5.15.0-89-generic-x86_64-with-glibc2.35
-Python version
-3.10.14
-Python executable
-/root/miniconda3/envs/py3.10/bin/python
-Git repository
-git clone https://github.com/OpenAccess-AI-Collective/axolotl.git
-Git state
-git checkout -b "./qlora-alpaca-out" 5370cedf0cb6c2cfeb98c944ce58d2ebf7a780aa
-Command
+# Run Summary
+
+## Training Information
+- **Author:** nima-zahedinameghi-1
+- **Training Duration:** 7m 15s
+
+## Environment Details
+- **OS:** Linux-5.15.0-89-generic-x86_64-with-glibc2.35
+
+## Command Executed
+```bash
 -m axolotl.cli.train examples/openllama-3b/lora.yml
-System Hardware
-CPU count	32
-GPU count	1
-GPU type	NVIDIA A100-PCIE-40GB
-W&B CLI Version
-0.17.3
+```
 # source_of_injury
 
 This model is built by [Nima Zahedinameghi](https://www.linkedin.com/in/nima-zahedi-nameghi-ph-d-3b7061146/). It's a fine-tuned version of [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) on the [source_injury](https://huggingface.co/datasets/NimaZahedinameghi/source_injury) dataset.
