@@ -1,5 +1,0 @@
-Shuffle the order of the data by InjurySource
-append the InjurySource to the end of Chain of Thought, separated by `/`
-Add Alpaca columns to Senthec_dataChange to JSON
-Change to JSON
-change to JSONL
