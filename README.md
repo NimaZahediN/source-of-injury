@@ -20,7 +20,7 @@ The `source-of-injury` project leverages the power of large language models and 
 
 The fine-tuning process involves training the model on a curated synthehtic dataset. The project employs the Axolotl framework, which provides a streamlined and efficient approach to fine-tuning large language models.
 
-## Hyperparameters
+## Important hyperparameters, optimizers, and training parameters
 
 - base_model: mistralai/Mistral-7B-v0.1
 - adapter: qlora
@@ -47,9 +47,11 @@ The fine-tuning process involves training the model on a curated synthehtic data
 - saves_per_epoch: 6
 - weight_decay: 0.0
 - special_tokens:
-    - bos_token: "<s>"
-    - eos_token: "</s>" 
-    - unk_token: "<unk>"
+    ``` txt
+    bos_token: "<s>"
+    eos_token: "</s>" 
+    unk_token: "<unk>"
+    ```
 - save_safetensors: true
 
 
