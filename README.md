@@ -1,182 +1,59 @@
-# source-of-injury
----
-base_model: mistralai/Mistral-7B-v0.1
-library_name: peft
-license: apache-2.0
-tags:
-- axolotl
-- generated_from_trainer
-model-index:
-- name: source_of_injury
-  results: []
-language:
-- en
-pipeline_tag: text-classification
----
+## Objective
 
-<!-- This model card has been generated automatically according to the information the Trainer had access to. You
-should probably proofread and complete it, then remove this comment. -->
+The `source-of-injury` project aims to identify the source injuries based on textual descriptions. The model is able to understand and analyze the context of the injury description and provide a concise and accurate classification of the source or cause.
+
+## Use Cases
+
+Some potential use cases for the `source-of-injury` model include:
+
+1. **Healthcare**: Assist medical professionals in quickly identifying the source of an injury, which can aid in providing appropriate treatment and preventive measures and/or labeling the incident for downstream analysis.
+
+2. **Insurance**: Enable insurance companies to efficiently process injury claims by automatically determining the source of the injury, streamlining the claims process.
+
+3. **Accident Reporting**: Facilitate accurate and consistent reporting of accidents by automatically classifying the source of injuries based on textual descriptions.
+
+4. **Research and Analysis**: Provide a tool for researchers and analysts to study patterns and trends in injury causes, enabling better prevention strategies and resource allocation.
+
+## Approach
+
+The `source-of-injury` project leverages the power of large language models and fine-tuning techniques to adapt a pre-trained LLM to the specific task of injury source classification. The project utilizes the Mistral-7B-v0.1 model from MistralAI as the base model and fine-tunes it on a custom dataset of injury descriptions and their corresponding sources.
+
+The fine-tuning process involves training the model on a curated synthehtic dataset. The project employs the Axolotl framework, which provides a streamlined and efficient approach to fine-tuning large language models.
+
+## Hyperparameters
+
+- base_model: mistralai/Mistral-7B-v0.1
+- adapter: qlora
+- lora_r: 32
+- lora_alpha: 16
+- lora_dropout: 0.05
+- sequence_len: 896
+- micro_batch_size: 16
+- eval_batch_size: 16
+- num_epochs: 3
+- optimizer: adamw_bnb_8bit
+- lr_scheduler: cosine
+- learning_rate: 0.0002
+- max_grad_norm: 1.0
+- adam_beta2: 0.95
+- adam_epsilon: 0.00001
+- gradient_accumulation_steps: 4
+- warmup_steps: 20
+- gradient_checkpointing: true
+- bf16: true
+- loss_watchdog_threshold: 5.0
+- loss_watchdog_patience: 3
+- evals_per_epoch: 4
+- saves_per_epoch: 6
+- weight_decay: 0.0
+- special_tokens:
+    - bos_token: "<s>"
+    - eos_token: "</s>" 
+    - unk_token: "<unk>"
+- save_safetensors: true
+
 
 [<img src="https://raw.githubusercontent.com/OpenAccess-AI-Collective/axolotl/main/image/axolotl-badge-web.png" alt="Built with Axolotl" width="200" height="32"/>](https://github.com/OpenAccess-AI-Collective/axolotl)
-<details><summary>See axolotl config</summary>
-
-axolotl version: `0.4.1`
-```yaml
-base_model: mistralai/Mistral-7B-v0.1
-model_type: MistralForCausalLM
-tokenizer_type: LlamaTokenizer
-is_mistral_derived_model: true
-
-load_in_8bit: false
-load_in_4bit: true
-strict: false
-
-lora_fan_in_fan_out: false
-data_seed: 49
-seed: 49
-
-datasets:
-  - path: NimaZahedinameghi/source_injury
-    type: alpaca
-
-dataset_prepared_path: last_run_prepared
-val_set_size: 0.1
-output_dir: ./qlora-alpaca-out
-hub_model_id: NimaZahedinameghi/source_of_injury
-
-adapter: qlora
-lora_model_dir:
-
-sequence_len: 896
-sample_packing: false
-pad_to_sequence_len: true
-
-lora_r: 32
-lora_alpha: 16
-lora_dropout: 0.05
-lora_target_linear: true
-lora_fan_in_fan_out:
-lora_target_modules:
-  - gate_proj
-  - down_proj
-  - up_proj
-  - q_proj
-  - v_proj
-  - k_proj
-  - o_proj
-
-wandb_project: source_of_injury
-wandb_entity: uqam
-
-gradient_accumulation_steps: 4
-micro_batch_size: 16
-eval_batch_size: 16
-num_epochs: 3
-optimizer: adamw_bnb_8bit
-lr_scheduler: cosine
-learning_rate: 0.0002
-max_grad_norm: 1.0
-adam_beta2: 0.95
-adam_epsilon: 0.00001
-save_total_limit: 12
-
-train_on_inputs: false
-group_by_length: false
-bf16: true
-fp16: false
-tf32: false
-
-gradient_checkpointing: true
-early_stopping_patience:
-resume_from_checkpoint:
-local_rank:
-logging_steps: 1
-xformers_attention:
-flash_attention: true
-
-loss_watchdog_threshold: 5.0
-loss_watchdog_patience: 3
-
-warmup_steps: 20
-evals_per_epoch: 4
-eval_table_size:
-eval_table_max_new_tokens: 128
-saves_per_epoch: 6
-debug:
-weight_decay: 0.0
-fsdp:
-fsdp_config:
-special_tokens:
-  bos_token: "<s>"
-  eos_token: "</s>"
-  unk_token: "<unk>"
-save_safetensors: true
-```
-
-</details><br>
-
-[<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Visualize in Weights & Biases" width="200" height="32"/>](https://wandb.ai/uqam/source_of_injury/runs/2q7kaw2k)
-
-# Run Summary
-
-## Training Information
-- **Author:** nima-zahedinameghi-1
-- **Training Duration:** 7m 15s
-
-## Environment Details
-- **OS:** Linux-5.15.0-89-generic-x86_64-with-glibc2.35
-
-## Command Executed
-```bash
--m axolotl.cli.train examples/openllama-3b/lora.yml
-```
-# source_of_injury
-
-This model is built by [Nima Zahedinameghi](https://www.linkedin.com/in/nima-zahedi-nameghi-ph-d-3b7061146/). It's a fine-tuned version of [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) on the [source_injury](https://huggingface.co/datasets/NimaZahedinameghi/source_injury) dataset.
-It achieves the following results on the evaluation set:
-- Loss: 0.5867, after 3 epochs.
-
-## Dependencies
-Please pip install all the required dependencies
-``` txt
-transformers==4.36.2
-datasets==2.15.0
-peft==0.6.0
-accelerate==0.24.1
-bitsandbytes==0.41.3.post2
-safetensors==0.4.1
-scipy==1.11.4
-sentencepiece==0.1.99
-protobuf==4.23.4 --upgrade
-```
-
-## Model description
-
-the model is fine tuned on a small dataset with 4bit precision. 
-
-## Intended uses & limitations
-
-Further testing is required to evaluate the model performance on custome evaluations
-
-## Training and evaluation data
-
-More information needed
-
-## Training procedure
-
-### Training hyperparameters
-
-The following hyperparameters were used during training:
-- learning_rate: 0.0002
-- train_batch_size: 16
-- eval_batch_size: 16
-- seed: 49
-- gradient_accumulation_steps: 4
-- total_train_batch_size: 64
-- optimizer: Adam with betas=(0.9,0.95) and epsilon=1e-05
-- lr_scheduler_type: cosine
-- lr_scheduler_warmup_steps: 20
-- num_epochs: 3
 
 ### Training results
 
@@ -201,3 +78,4 @@ The following hyperparameters were used during training:
 - Pytorch 2.1.2+cu118
 - Datasets 2.19.1
 - Tokenizers 0.19.1
+
