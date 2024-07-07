@@ -70,6 +70,10 @@ The fine-tuning process involves training the model on a curated synthehtic data
 | 0.6407        | 2.3704 | 16   | 0.6205          |
 | 0.6101        | 2.6667 | 18   | 0.5867          |
 
+[<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Visualize in Weights & Biases" width="200" height="32"/>](https://wandb.ai/uqam/source_of_injury/runs/2q7kaw2k)
+
+
+
 
 ### Framework versions
 
