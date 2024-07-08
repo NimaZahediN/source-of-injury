@@ -1,0 +1,294 @@
+[
+    {
+        "IncidentDescription": "While I was maneuvering the vehicle through a narrow alleyway, an abrupt jolt caused by an unseen pothole threw me against the steering wheel. My chest hit the wheel hard, and I experienced immediate pain and shortness of breath. I pulled over as soon as it was safe and called for medical assistance. The emergency team arrived, assessed my condition, and advised me to go to the hospital for further evaluation.",
+        "Chain of Thought": "The sudden jolt from the pothole while navigating the vehicle indicates the environment inside the vehicle is directly related to the incident. The injury resulted from the interaction with the vehicle's interior due to an external road condition.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was operating the hydraulic lift to unload cargo, the mechanism malfunctioned, causing the platform to drop suddenly. I lost my balance and fell, hitting my head on the side panel. My vision blurred momentarily, and I felt a sharp pain in my neck. I immediately reported the malfunction and my injury to my supervisor and was taken to the clinic for a check-up.",
+        "Chain of Thought": "The hydraulic lift's sudden drop and the subsequent fall are linked to the operation of the vehicle's unloading mechanism. The injury occurred due to the malfunction of a vehicle component.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "During a delivery, I was stepping out of the vehicle when my foot got caught on the uneven surface of the exit step. I twisted my ankle badly and had to sit down immediately due to the intense pain. I called my supervisor and was advised to seek medical attention right away.",
+        "Chain of Thought": "The act of stepping out of the vehicle and the uneven surface of the exit step point to the vehicle as the context in which the injury occurred. The design and condition of the vehicle's exit area were contributing factors.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While performing a routine check on the vehicle's engine, I accidentally touched a hot surface and sustained a second-degree burn on my hand. The pain was excruciating, and I immediately ran cool water over the burn and informed my manager. I then went to the hospital for further treatment.",
+        "Chain of Thought": "The injury occurred during a routine maintenance check, implicating the vehicle's engine compartment as the source. The hot surface was part of the vehicle's mechanical components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was securing the load in the back when a strap suddenly snapped, causing a heavy crate to shift and crush my fingers against the sidewall. The pain was immediate and severe. I reported the incident to the safety officer and was taken to the hospital for X-rays and treatment.",
+        "Chain of Thought": "The securing of the load and the snapping strap are directly related to the vehicle's loading and securing processes. The environment and equipment used in the vehicle contributed to the incident.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was driving down a steep hill, I felt the brakes start to give way, forcing me to use the emergency brake to stop. The sudden stop caused me to lurch forward, hitting my head on the dashboard. I felt dizzy and nauseous, so I called for an ambulance and was taken to the hospital for evaluation.",
+        "Chain of Thought": "The brake failure and subsequent use of the emergency brake indicate a mechanical issue within the vehicle. The injury resulted from the sudden deceleration and impact within the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was adjusting the side mirrors when the mirror assembly suddenly detached, falling onto my hand and causing a deep cut. I wrapped my hand to stop the bleeding and informed my supervisor of the incident. I then went to the clinic for stitches and a tetanus shot.",
+        "Chain of Thought": "The detachment of the mirror assembly during an adjustment implicates the vehicle's accessory components. The injury was caused by a malfunction of a vehicle part.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While I was refueling the vehicle, a spark caused a minor explosion near the fuel tank, and I was thrown back by the force, landing awkwardly and spraining my wrist. I immediately called for emergency services and was transported to the hospital for treatment.",
+        "Chain of Thought": "The refueling process and the resulting explosion near the fuel tank are directly connected to the vehicle. The injury occurred as a result of an incident involving the vehicle's fuel system.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was stepping up into the cabin, the handle I was holding onto broke off, causing me to fall backwards onto the hard pavement. I hit my head and felt disoriented. A colleague found me and called for help. I was taken to the emergency room for a concussion evaluation.",
+        "Chain of Thought": "The breaking of the handle while entering the cabin points to a structural failure of the vehicle's entry system. The fall and resulting injury were caused by a defect in the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While transporting a load of fragile items, I had to make an emergency stop. The sudden deceleration caused several items to shift and break, with one shard cutting my arm deeply. I stopped the vehicle and applied first aid before heading to the clinic for further care.",
+        "Chain of Thought": "The emergency stop and subsequent shifting of the load within the vehicle highlight the vehicle's role in the incident. The injury resulted from the environment and conditions inside the vehicle during transport.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was securing the tarp over the cargo bed when a gust of wind caused it to whip back and hit me in the face, knocking me off balance. I fell off the side of the vehicle, spraining my ankle. I reported the incident and went to see a doctor for an evaluation.",
+        "Chain of Thought": "The act of securing the tarp over the cargo bed is part of the vehicle's operation. The wind and the resulting fall from the vehicle implicate the vehicle as the context in which the injury occurred.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While checking the tire pressure, the valve suddenly burst, releasing a high-pressure stream of air that hit my eye. I felt immediate pain and couldn't see properly, so I sought medical attention immediately to ensure there was no serious damage.",
+        "Chain of Thought": "The tire pressure check and the bursting valve indicate a maintenance task related to the vehicle. The injury was caused by the vehicle's component under pressure.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "During a long drive, I noticed a strange noise coming from the back of the vehicle. I pulled over to investigate and found that a piece of the undercarriage had come loose and was dragging on the ground. While attempting to secure it, the metal edge cut my hand deeply. I wrapped it up and headed to the nearest medical facility.",
+        "Chain of Thought": "The noise investigation and the loose undercarriage component are directly connected to the vehicle's structural parts. The injury occurred during an inspection and maintenance task related to the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was adjusting the cargo straps when one of the hooks slipped, causing the strap to snap back and hit my shoulder with great force. The pain was immediate, and I had to stop working to seek medical attention. My supervisor was informed, and I went to the clinic for an assessment.",
+        "Chain of Thought": "The adjustment of cargo straps and the snapping hook implicate the vehicle's load securing mechanism. The injury was caused by a failure in the vehicle's equipment.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While reversing into a loading bay, I misjudged the distance and hit the dock with the rear of the vehicle. The sudden impact caused a jolt that threw me forward, hitting my head on the steering wheel. I experienced a headache and dizziness, so I stopped work and went to the hospital for a check-up.",
+        "Chain of Thought": "The misjudgment while reversing and the resulting impact with the dock are related to the vehicle's operation. The injury occurred within the vehicle due to the sudden stop.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was closing the side panel after loading, the latch failed, causing the heavy panel to swing back and hit my leg. The pain was intense, and I immediately informed my manager before heading to the clinic for an X-ray.",
+        "Chain of Thought": "The failure of the latch and the swinging side panel are connected to the vehicle's structural and loading mechanisms. The injury was caused by a defect in the vehicle's components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "During a routine brake check, I noticed an unusual resistance and bent down to inspect the issue. Suddenly, the brake released and the lever snapped back, hitting my face. I was dazed and bleeding, so I called for help and went to the hospital for treatment.",
+        "Chain of Thought": "The brake check and the sudden release of the lever are maintenance tasksrelated to the vehicle's braking system. The injury resulted from the vehicle's component malfunctioning during inspection.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was inside the cabin organizing paperwork when a sudden gust of wind slammed the door shut, catching my fingers in the doorframe. The pain was excruciating, and I had to call for assistance to get the door open. I reported the injury and went to the clinic for an evaluation.",
+        "Chain of Thought": "The gust of wind and the slamming door are directly related to the vehicle's environment. The injury occurred within the vehicle due to external weather conditions interacting with the vehicle's structure.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was loading the vehicle, a heavy box slipped from my grasp and landed on my foot. The pain was immediate, and I had to stop loading to assess the injury. I informed my supervisor and went to the medical room for first aid and further examination.",
+        "Chain of Thought": "The loading of the vehicle and the heavy box slipping are part of the vehicle's cargo handling process. The injury occurred due to the interaction with the vehicle's cargo.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving in heavy traffic, I had to make an abrupt stop to avoid a collision. The sudden stop caused me to be thrown against the seatbelt, which compressed my chest and caused significant pain. I pulled over and called for medical assistance, fearing a rib injury.",
+        "Chain of Thought": "The abrupt stop in heavy traffic and the resulting compression from the seatbelt are related to the vehicle's safety mechanisms. The injury occurred within the vehicle due to the sudden deceleration.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was closing the rear door of the cargo area when the locking mechanism jammed, causing the door to swing back and hit me in the head. I felt dizzy and had to sit down for a moment. After informing my supervisor, I went to the clinic for a check-up.",
+        "Chain of Thought": "The jamming of the locking mechanism and the swinging rear door are related to the vehicle's loading and securing processes. The injury was caused by a malfunction in the vehicle's components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While performing a pre-trip inspection, I slipped on a patch of oil near the vehicle's front tire and fell, hitting my elbow on the pavement. The pain was severe, and I had to report the incident and seek medical attention.",
+        "Chain of Thought": "The pre-trip inspection and the slip on oil are tasks and conditions related to the vehicle's maintenance. The injury occurred in the context of preparing the vehicle for operation.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was unloading heavy materials from the back, a sudden gust of wind caused the overhead door to slam shut, trapping my arm. I managed to free myself but was in considerable pain. I reported the incident and went to the emergency room for an evaluation.",
+        "Chain of Thought": "The unloading of materials and the sudden slamming of the overhead door are part of the vehicle's cargo handling process. The injury occurred due to environmental factors interacting with the vehicle's structure.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving through a construction zone, debris fell from an overpass and struck the vehicle's windshield, causing it to shatter. Shards of glass flew into the cabin, and one piece cut my cheek. I pulled over and called for assistance immediately.",
+        "Chain of Thought": "The driving through a construction zone and the falling debris are external factors affecting the vehicle. The injury occurred within the vehicle due to the impact from outside elements.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was cleaning the vehicle's interior when a loose wire under the dashboard gave me a sharp electric shock. I felt immediate pain in my hand and arm, and my muscles twitched uncontrollably. I reported the issue and went to the medical center for an assessment.",
+        "Chain of Thought": "The cleaning of the vehicle's interior and the loose wire causing an electric shock are related to the vehicle's electrical system. The injury was caused by a defect within the vehicle's components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While descending from the vehicle, my foot slipped on the step, causing me to fall and sprain my wrist. It was raining heavily, making the steps slippery. I informed my supervisor and sought medical attention immediately.",
+        "Chain of Thought": "The act of descending from the vehicle and the slippery steps due to rain are related to the vehicle's design and environmental conditions. The injury occurred in the context of exiting the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was driving down a steep hill when the brakes began to fail. I had to use the emergency brake to stop the vehicle, which caused me to be thrown forward and hit my head on the steering wheel. I experienced a severe headache and dizziness. I pulled over and called for an ambulance.",
+        "Chain of Thought": "The brake failure and the use of the emergency brake indicate a mechanical issue within the vehicle. The injury resulted from the sudden stop and impact within the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was lifting a heavy box into the vehicle, I felt a sharp pain in my lower back. The box slipped from my grasp and landed on my foot, causing additional pain. I reported the incident to my supervisor and went to the clinic for an evaluation.",
+        "Chain of Thought": "The lifting of a heavy box and the subsequent pain in the lower back are related to the vehicle's loading process. The injury occurred due to the physical exertion involved in handling cargo.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving through a tunnel, a sudden change in lighting caused temporary blindness, and I hit my head on the steering wheel as I instinctively ducked. The pain was immediate, and I pulled over to recover. I later reported the incident and sought medical attention.",
+        "Chain of Thought": "The driving through a tunnel and the sudden change in lighting affecting visibility are external conditions impacting the vehicle's operation. The injury occurred within the vehicle due to the environmental factors.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was unloading equipment from the back of the vehicle, one of the items fell and struck my knee. The pain was intense, and I had difficulty walking. I immediately reported the incident and went to the clinic for treatment.",
+        "Chain of Thought": "The unloading of equipment and the item falling are part of the vehicle's cargo handling process. The injury occurred due to the interaction with the vehicle's cargo.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving in heavy rain, the vehicle's windshield wipers failed, causing me to lose visibility. I pulled over quickly, but the sudden stop caused me to hit my head on the steering wheel. I experienced dizziness and a severe headache. I called for medical help immediately.",
+        "Chain of Thought": "The failure of the windshield wipers in heavy rain and the loss of visibility are related to the vehicle's safety features. The injury occurred within the vehicle due to the malfunctioning components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was adjusting the cargo straps when one of the hooks slipped and struck my hand. The pain was immediate, and I noticed swelling and bruising. I reported the incident to my supervisor and went to the medical center for an evaluation.",
+        "Chain of Thought": "The adjustment of cargo straps and the slipping hook are related to the vehicle's load securing process. The injury occurred due to the malfunctioning of the securing mechanism.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was loading the vehicle, a heavy crate slipped from the lift and landed on my foot. The pain was intense, and I had to sit down immediately. I reported the incident and went to the hospital for an X-ray.",
+        "Chain of Thought": "The loading of the vehicle and the slipping crate are part of the vehicle's cargo handling process. The injury occurred due to the interaction with the vehicle's cargo.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While performing a maintenance check on the vehicle's brakes, the lever I was using slipped, causing me to lose balance and fall. I landed on my shoulder, experiencing severe pain. I reported the incident and sought medical attention.",
+        "Chain of Thought": "The maintenance check on the vehicle's brakes and the slipping lever are tasks related to the vehicle's mechanical systems. The injury occurred during the maintenance process.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was driving through a rough terrain, the vehicle hit a large bump, causing me to be thrown against the side door. My shoulder hit the door hard, and I felt immediate pain. I pulled over and called for medical assistance.",
+        "Chain of Thought": "The driving through rough terrain and hitting a large bump are related to the vehicle's operation in challenging conditions. The injury occurred within the vehicle due to the external environmental factors.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was inside the vehicle, organizing the paperwork, when the vehicle's door suddenly swung open and hit me in the head. The pain was immediate, and I felt dizzy. I reported the incident and went to the clinic for a check-up.",
+        "Chain of Thought": "The organizing of paperwork inside the vehicle and the sudden swinging door are related to the vehicle's structural components. The injury occurred due to a malfunction in the vehicle's door mechanism.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While I was unloading heavy materials, a strap snapped, causing the load to shift and hit my arm. The pain was intense, and I had to stop working to assess the injury. I reported the incident and went to the medical center for further examination.",
+        "Chain of Thought": "The unloading of heavy materials and the snapping strap are part of the vehicle's cargo handling process. The injury occurred due to the failure of the securing mechanism.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was stepping out of the vehicle when my foot slipped on the wet step, causing me to fall and hit my knee on the ground. The pain was severe, and I had difficulty walking. I informed my supervisor and sought medical attention.",
+        "Chain of Thought": "The act of stepping out of the vehicle and the wet step are related to the vehicle's design and environmental conditions. The injury occurred in the context of exiting the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving through a construction area, debris from the road flew up and cracked the windshield, causing shards of glass to fly into the cabin. One shard cut my arm, and I had to pull over and call for assistance. I reported the incident and went to the clinic for treatment.",
+        "Chain of Thought": "The driving through a construction area and the flying debris are external conditions impacting the vehicle. The injury occurred within the vehicle due to the external environmental factors.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was securing the load when a heavy box slipped and hit my foot. The pain was intense, and I had to stop loading to assess the injury. I reported the incident and went to the clinic for an evaluation.",
+        "Chain of Thought": "The securing of the load and the slipping box are part of the vehicle's cargo handling process. The injury occurred due to the interaction with the vehicle's cargo.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was performing a pre-trip inspection, I noticed a loose wire under the dashboard. When I tried to secure it, I received a sharp electric shock. I felt immediate pain in my hand and arm, and my muscles twitched uncontrollably. I reported the issue and went to the medical center for an assessment.",
+        "Chain of Thought": "The pre-trip inspection and the loose wire causing an electric shock are related to the vehicle's electrical system. The injury was caused by a defect within the vehicle's components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving in heavy traffic, I had to make an abrupt stop to avoid a collision. The sudden stop caused me to be thrown against the seatbelt, which compressed my chest and caused significant pain. I pulled over and called for medical assistance, fearing a rib injury.",
+        "Chain of Thought": "The abrupt stop in heavy traffic and the resulting compression from the seatbelt are related to the vehicle's safety mechanisms. The injury occurred within the vehicle due to the sudden deceleration.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was unloading heavy equipment when the loading ramp malfunctioned, causing me to lose balance and fall. I landed on my arm, experiencing immediate pain. I reported the incident and sought medical attention.",
+        "Chain of Thought": "The unloading of heavy equipment and the malfunctioning ramp are part of the vehicle's cargo handling process. The injury occurred due to a defect in the vehicle's components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving on a slippery road, the vehicle skidded and hit a guardrail. The impact caused me to be thrown against the side door, injuring my shoulder. I pulled over and called for medical assistance immediately.",
+        "Chain of Thought": "The driving on a slippery road and the vehicle skidding are related to the vehicle's operation in challenging conditions. The injury occurred within the vehicle due to the external environmental factors.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was cleaning the vehicle's interior, I accidentally touched a hot surface and sustained a burn on my hand. The pain was immediate, and I reported the incident to my supervisor before heading to the hospital for treatment.",
+        "Chain of Thought": "The cleaning of the vehicle's interior and the hot surface causing a burn are related to the vehicle's components. The injury was caused by an interaction with a part of the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was stepping up into the vehicle when my foot slipped on the step, causing me to fall backwards and hit my head on the ground. The pain was severe, and I had to sit down immediately. I reported the incident and went to the clinic for an evaluation.",
+        "Chain of Thought": "The act of stepping up into the vehicle and the slippery step are related to the vehicle's design and environmental conditions. The injury occurred in the context of entering the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While performing a routine inspection of the vehicle's engine, a component suddenly burst, releasing a high-pressure steam that burned my face. I felt immediate pain and couldn't see properly, so I sought medical attention immediately to ensure there was no serious damage.",
+        "Chain of Thought": "The routine inspection of the vehicle's engine and the bursting component are maintenance tasks related to the vehicle. The injury occurred due to a malfunctioning part of the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was closing the side door after loading, the latch failed, causing the door to swing back and hit my shoulder. The pain was intense, and I immediately informed my manager before heading to the clinic for an X-ray.",
+        "Chain of Thought": "The failure of the latch and the swinging side door are related to the vehicle's structural and loading mechanisms. The injury was caused by a defect in the vehicle's components.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving through a dense forest area, a low-hanging branch struck the vehicle's windshield, causing it to crack and glass to shatter inside the cabin. A piece of glass cut my cheek, and I had to pull over and call for assistance immediately.",
+        "Chain of Thought": "The driving through a dense forest area and the low-hanging branch are external conditions impacting the vehicle. The injury occurred within the vehicle due to the environmental factors.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was securing a tarp over the cargo when a sudden gust of wind caused it to whip back and hit me in the face, knocking me off balance. I fell off the side of the vehicle and sprained my ankle. I reported the incident and went to see a doctor for an evaluation.",
+        "Chain of Thought": "The act of securing a tarp over the cargo is part of the vehicle's operation. The wind and the resulting fall from the vehicle implicate the vehicle as the context in which the injury occurred.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving through a narrow street, I had to swerve to avoid an oncoming vehicle, causing a heavy toolbox to slide and hit my ankle. I managed to pull over, but my ankle was already swelling and painful. I called my supervisor and was advised to seek medical attention.",
+        "Chain of Thought": "The narrow street navigation and the swerving to avoid an oncoming vehicle are related to the vehicle's operation. The injury occurred within the vehicle due to the sudden maneuver.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was securing the load in the back, a sudden jolt caused by a pothole made a stack of boxes to topple over and hit my leg. I fell to the ground and my leg was bruised and swollen. I immediately notified my supervisor and was taken to the onsite medical room for first aid.",
+        "Chain of Thought": "The jolt caused by a pothole and the toppled boxes are related to the vehicle's environment. The injury occurred due to the interaction with the vehicle's cargo.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While checking the tire pressure, the valve suddenly burst, releasing a high-pressure stream of air that hit my eye. I felt immediate pain and couldn't see properly, so I sought medical attention immediately to ensure there was no serious damage.",
+        "Chain of Thought": "The tire pressure check and the bursting valve indicate a maintenance task related to the vehicle. The injury was caused by the vehicle's component under pressure.",
+       
+
+ "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was adjusting the mirrors when the mirror assembly suddenly detached, falling onto my hand and causing a deep cut. I wrapped my hand to stop the bleeding and informed my supervisor of the incident. I then went to the clinic for stitches and a tetanus shot.",
+        "Chain of Thought": "The detachment of the mirror assembly during an adjustment implicates the vehicle's accessory components. The injury was caused by a malfunction of a vehicle part.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While driving on a rough road, the vehicle hit a large bump, causing a heavy object to fly forward and strike my knee. The pain was severe, and I had to pull over to assess the injury. I reported the incident and went to the clinic for further examination.",
+        "Chain of Thought": "The driving on a rough road and the large bump are related to the vehicle's operation in challenging conditions. The injury occurred within the vehicle due to external environmental factors.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "I was cleaning the vehicle's exterior when a loose part from the roof fell and hit my shoulder. The pain was immediate, and I reported the incident to my supervisor before going to the clinic for an assessment.",
+        "Chain of Thought": "The cleaning of the vehicle's exterior and the loose part falling are related to the vehicle's structural components. The injury occurred due to a defect within the vehicle's parts.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "While stepping out of the vehicle, I tripped on a loose mat and fell, hitting my elbow on the pavement. The pain was intense, and I had difficulty moving my arm. I reported the incident and went to the clinic for an X-ray.",
+        "Chain of Thought": "The act of stepping out of the vehicle and the loose mat are related to the vehicle's design and condition. The injury occurred in the context of exiting the vehicle.",
+        "InjurySource": "Truck, uns."
+    },
+    {
+        "IncidentDescription": "As I was performing a routine inspection, the vehicle's door unexpectedly slammed shut, catching my fingers in the doorframe. The pain was severe, and I had to call for assistance to get the door open. I reported the injury and went to the clinic for an evaluation.",
+        "Chain of Thought": "The routine inspection and the unexpected slamming door are related to the vehicle's structural components. The injury occurred due to a malfunction in the vehicle's door mechanism.",
+        "InjurySource": "Truck, uns."
+    }
+]
