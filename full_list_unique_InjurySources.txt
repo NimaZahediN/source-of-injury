@@ -1,0 +1,1053 @@
+Bodily motion or position of injured, ill worker	25973
+Health care patient or resident of health care facility	6089
+Viruses	5513
+Floor of building	4648
+Person -- other than injured or ill worker, n.e.c.	4540
+Noise	4263
+Boxes, crates, cartons	4139
+Knives	3332
+Floors, walkways, ground surfaces, uns.	3140
+Ground	3104
+Bodily conditions of injured, ill worker	3058
+Unknown	2501
+Parking lots	2178
+Doors	1947
+Chips, particles, splinters, uns.	1825
+Needles and syringes	1786
+Metal chips, particles	1701
+Health care and orthopedic equipment, n.e.c.	1529
+Cart, dolly, handtruck	1509
+Floors, walkways, ground surfaces, n.e.c.	1437
+Bags, sacks, totes	1323
+Student	1134
+Parts and materials, n.e.c.	1076
+Parts and materials, uns.	1058
+Sidewalks, paths, outdoor walkways, n.e.c.	1053
+Skids, pallets	966
+Street, road	917
+Tanks, bins, vats	886
+Semitrailer, tractor trailer, trailer truck	834
+Truck, uns.	822
+Vehicle and mobile equipment parts, n.e.c.	789
+Bodily fluids or substances of person	779
+Nails, brads, tacks	752
+Stairs, steps -- indoors	679
+Dogs	671
+Bars, rods, reinforcing bar (rebar)	669
+Buckets, baskets, pails	649
+Hammers	636
+Tables, worktables	620
+Other floors, walkways, ground surfaces, uns.	595
+Trailers	581
+Pots, pans, trays	574
+Automobile	566
+Bus	557
+Vehicle, uns.	551
+Stairs, steps -- outdoors	529
+Structural elements, n.e.c.	499
+Shovels	498
+Other sources, n.e.c.	484
+Walls	475
+Wrenches	470
+Beds, bedding, mattresses	468
+Ramps, runways, loading docks	467
+Water	460
+Vehicles, n.e.c.	448
+Swine	442
+Cases, cabinets, racks, shelves, n.e.c.	442
+Plates, metal panels	433
+Plywood, wood paneling; particle, chip, flake board	433
+Chairs	414
+Wheelchairs	412
+Hoses	409
+Stairs, steps, uns.	400
+Reels, rolls	392
+Beams	388
+Sheet metal	374
+Food slicers	369
+Truck, n.e.c.	365
+Prison inmate(s)	362
+Cabinets, cases--display, storage	355
+Drills -- powered	350
+Shelving	348
+Co-worker, former co-worker of injured or ill worker, n.e.c.	340
+Van -- passenger or light delivery	306
+Metal pipe, tubing	298
+Crowbars	296
+Gates	292
+Pipes, ducts, tubing, uns.	285
+Forklift, unspecified	280
+Chips, particles, splinters, n.e.c.	272
+Plant and industrial powered vehicle, n.e.c.	270
+Bottles, jugs, flasks	268
+Cans	266
+Person -- other than injured or ill worker, uns.	266
+Domestic Cats	263
+Fats, oils	262
+Barrels, kegs, drums	257
+Strapping	251
+Smoke, fire gases	247
+Hand grinders -- powered	247
+Sledges	244
+Bundles, bales	241
+Ranges, cooking ovens, grills, toasters, food warmers	240
+Refrigerators, freezers, ice makers	239
+Plant and industrial vehicle -- nonpowered, n.e.c.	239
+Insects, arachnids (spiders, ticks, scorpions, mosquitos)	237
+Floor, n.e.c.	235
+Rails	233
+Recreation and athletic equipment, n.e.c.	231
+Packages, parcels	231
+Tires, except bike	229
+Windows	221
+Rocks, crushed stone	219
+Wheels, tire rims	218
+Wallboard, drywall	217
+Glass chips or fibers	217
+Pipes, ducts, tubing, n.e.c.	216
+Ladders, uns.	215
+Meat, poultry	214
+Drills	211
+Customer	208
+Garment racks, other racks	205
+Structural metal materials, n.e.c.	205
+Electrical wiring	204
+Chemicals and chemical products, uns.	203
+Handtools -- nonpowered, n.e.c.	201
+Brooms, mops, and other cleaning tools	200
+Beverages, n.e.c.	200
+Wood, lumber, uns.	198
+Ice, sleet, snow	197
+Highway vehicle, uns.	197
+Highway vehicle, motorized, n.e.c.	196
+Machinery, uns.	196
+Grinders, abraders	196
+Metal materials -- nonstructural, uns.	193
+Tools, instruments, and equipment, n.e.c.	192
+Cutting handtools -- nonpowered, n.e.c.	190
+Counters, counter tops	186
+Wood, lumber, n.e.c.	186
+Saws -- powered, except chainsaws	183
+Wood chips	179
+Supervisor of injured or ill worker (foreman, manager etc)	179
+Containers -- nonpressurized, n.e.c.	179
+Floor, uns.	177
+Other food products -- fresh or processed, n.e.c.	177
+Gymnasium and exercise equipment	175
+Glass, window panes	174
+Desks	169
+Stairs, steps, n.e.c.	168
+Chains, n.e.c.	165
+Asbestos	162
+Other structures, n.e.c.	158
+Spot welding machinery	157
+Wire -- nonelectrical	157
+Food and beverage processing machinery -- specialized, n.e.c.	157
+Cutting blades (e.g. lawn mower)	151
+Scrap, waste, debris, n.e.c.	151
+Other machinery, n.e.c.	150
+Cold -- environmental	150
+Floor of vehicle	149
+Drums, pulleys, sheaves	149
+Cases, cabinets, racks, shelves, uns.	148
+Conveyors -- belt	144
+Cattle	143
+Table saws	141
+Structural metal materials, uns.	140
+Movable ladders, uns.	140
+Metal materials -- nonstructural, n.e.c.	139
+Fire, flame	137
+Other cleaning and polishing agents, n.e.c.	137
+Sawdust	136
+Scissors, snips, shears	134
+Roof	133
+Containers -- pressurized, n.e.c.	133
+Nuts, bolts, washers	132
+Tear gas, mace	130
+Train	128
+Branches, limbs	128
+Jacks, n.e.c.	128
+Beams, ties, square posts, (lumber whose dimensions are greater than  or equal to 4)	127
+Staples	127
+Venom	126
+Forklift, n.e.c.	125
+Electric parts, n.e.c.	124
+Sofas	124
+Machine and appliance parts, n.e.c.	123
+Drinking cups, beverage glasses	122
+Carbon monoxide	119
+Fabric, sheets, linen	119
+Pumps	119
+Furnaces, heaters	118
+Saws	117
+Sun	116
+Excavating machinery, n.e.c.	116
+Chemicals and chemical products, n.e.c.	113
+Containers, n.e.c.	113
+Cleaning and polishing agents, uns.	112
+Molten or hot metals, slag	112
+Dump truck	111
+Tarps; plastic, or fabric sheeting	111
+Tractor	109
+Screwdrivers	108
+Screws	107
+Dishes, bowls	107
+Battery	107
+Clamps, couplings	105
+Clothing, n.e.c.	105
+Tools, instruments, and equipment, uns.	105
+Scrap, waste, debris, uns.	103
+Hooks, shackles, magnets, clamshells	103
+Band saws	102
+Tires, inner tubes, wheels, n.e.c.	102
+Rollers	101
+Pickup truck	101
+Ducts	101
+Concrete blocks, cinder blocks	100
+Disinfectants	100
+Scaffolds -- staging, uns.	100
+Vacuum cleaners	99
+Fans, blowers -- wall, floor, ceiling, ventilation	98
+Dimensional lumber, n.e.c.	96
+Fences, fence panels	95
+Benches, workbenches, saw horses	93
+Other Chemicals, uns.	93
+Patterns, dies, molds (machine and appliance parts)	92
+Metal sheets, ingots, bars -- nonstructural	92
+Grates	91
+Vises, clamps	90
+Steam, vapors -- nonchemical	89
+Sand, gravel	86
+Metallic particulates, trace elements, dusts, powders, fumes, n.e.c.	86
+Medical machinery and equipment, except x-ray	86
+Ladders, n.e.c.	86
+Wood pieces, trim pieces, n.e.c.	85
+Lighting equipment, n.e.c.	83
+Floor coverings, nonstructural	83
+Loaders, uns.	80
+Sidewalks, paths, outdoor walkways, uns.	80
+Toilets	80
+Shoes, boots, slippers, sandals	79
+Motors, includes - outboard	79
+Delivery truck	78
+Step ladders	77
+Dirt particles	76
+Drill bits -- unattached	75
+Bricks, blocks, structural stone, n.e.c.	75
+Bathtubs	74
+Chainsaws -- powered	74
+Hand/rider forklift truck -- motorized	73
+Valves, nozzles	73
+Other metal, woodworking, and special material machinery, n.e.c.	73
+Furniture, n.e.c.	72
+Dust masks	71
+Medical and surgical instruments, n.e.c.	71
+Ditches, channels, trenches, excavations	71
+Other tools, instruments, and equipment, uns.	71
+Sewing, stitching machinery	70
+Heat -- environmental	69
+All terrain vehicle (ATV)	68
+Playground equipment	68
+Tool parts, accessories, n.e.c.	67
+Washers, dryers, and cleaning machinery and appliances, n.e.c.	66
+Logs, limbed or unlimbed	66
+Jacks, uns.	66
+Gasoline, diesel fuel, jet fuel	65
+Generators	64
+Angle irons	64
+Cutting handtools -- power not determined, uns.	64
+Televisions	64
+Structural hardware, n.e.c.	64
+Other building materials -- solid elements, n.e.c.	62
+Cooking and eating utensils, except knives	62
+Floor of scaffold, staging, or temporary work platform	60
+Dish washers	60
+Lockers	60
+Paint	60
+Sinks	59
+Fasteners, n.e.c.	59
+Curb	58
+Surfacing handtools -- nonpowered, n.e.c.	58
+Other beauty preparations, cosmetics, n.e.c.	57
+Chunks of concrete	55
+Augers	55
+Graders, levellers, planers, scrapers	55
+Loaders, n.e.c.	54
+Horses	54
+Wheelbarrow	54
+Snowblowers	53
+Impact wrenches -- powered	53
+Air conditioning units	53
+Camping equipment	53
+Mixers, blenders, whippers -- food and beverage	52
+Engine parts and accessories, n.e.c.	52
+Tires, inner tubes, wheels, uns.	52
+Poles (circular cross section), e.g. telephone poles - not installed	52
+Pliers, tongs	51
+Sewing needles	51
+Roof trusses	51
+Trash, garbage	51
+Trees, logs, n.e.c.	51
+Conveyors -- powered, uns.	51
+Containers, uns.	50
+Extension ladders	50
+Lumber whose dimensions are less than 4"	50
+Transmission	50
+Rope, twine, string	50
+Scalpels	49
+Structural stones or slabs, n.e.c.	49
+Chemical products -- general, uns.	49
+Buffers, polishers, waxers -- powered	48
+Jackhammers -- powered	48
+Sewers, manholes, storm drains	48
+Propane tanks	47
+Other machinery, uns.	47
+Machine, tool, and electric parts, n.e.c.	47
+Drills -- power not determined	47
+Flashing	46
+Paper, books, magazines, n.e.c.	46
+Vehicle and mobile equipment parts, uns.	46
+Overhead hoists, uns.	45
+Other metal, woodworking, and special material machinery, uns.	45
+Bicycle	45
+Bricks and pavers	44
+Bacteria	44
+Fire,flame, smoke, n.e.c.	44
+Furniture, uns.	44
+Material handling machinery, uns.	44
+Lubricating greases, cutting oils	44
+Metallic particulates, trace elements, dusts, powders, fumes, uns.	44
+Paper, sheets	44
+Ropes, ties, n.e.c.	43
+Towers, poles - installed	43
+Trees, not yet horizontal; usually "falling"	43
+Elevators, uns.	43
+Aircraft, uns.	43
+Bucket loaders	43
+Air compressors	42
+Adhesives, glues, n.e.c.	42
+Chisels	41
+Mallets	41
+Lawn mowers -- riding	41
+Snowmobile	41
+Rakes	41
+Rail vehicle, n.e.c.	40
+Luggage, handbags, uns.	40
+Medical, surgical, and x-ray machinery and equipment, n.e.c.	40
+Garbage trucks	40
+Heating and cooking machinery and appliances, n.e.c.	40
+Cement, mortar mix -- wet	40
+Antifreeze	40
+Pallet lift truck -- motorized	39
+Solvents, degreasers, uns.	39
+Soap products	38
+Nail guns -- powered	38
+Handtools -- powered, n.e.c.	38
+Concrete or clay pipes and conduits	37
+Dirt, earth	36
+Blouses, shirts, dresses, trousers, skirts	36
+Fruits, nuts, vegetables	36
+Food and beverage processing machinery -- specialized, uns.	36
+Poison ivy, oak, sumac	36
+Plastic or rubber pipe and tubing	35
+Muffler, exhaust	35
+Welding and heating handtools -- powered, uns	35
+Front end loaders	35
+Metal, woodworking, and special material machinery, uns.	35
+Measuring handtools -- nonpowered, n.e.c.	35
+Cranes, uns.	35
+Cutting handtools -- powered, n.e.c.	35
+Drills--stationary	34
+Liquids, n.e.c.	34
+Sanders -- powered	34
+Lawn mowers -- nonriding, powered	33
+Bricks, blocks, structural stone, uns.	33
+Agricultural and garden machinery, n.e.c.	33
+Containers--nonpressurized, uns.	32
+Laundry	32
+Lifelines, lanyards, safety belts or harnesses	32
+Excavating machinery, uns.	32
+Multiple chemicals or chemical mixtures, n.e.c.	32
+Other Chemical products-general, n.e.c.	32
+Oxygen tanks	32
+Tripods, stands	32
+Trees, logs, uns.	32
+Person -- injured or ill worker, n.e.c.	31
+Other fixtures, n.e.c.	31
+Luggage, handbags, n.e.c.	31
+Chlorine, chlorine bleach	31
+Dishes, drinking cups, beverage glasses, n.e.c.	31
+Buildings--office, plant, residential	31
+Handtools -- power not determined, uns.	30
+Gripping handtools -- nonpowered, n.e.c.	30
+Transformers, converters	30
+Tarps and sheeting, nonmetal, uns.	29
+Food products, uns.	29
+Conveyors -- roller	29
+Building materials, uns.	28
+Asphalt, roofing tar	28
+Furniture and fixtures, n.e.c.	28
+Group of co-workers of injured or ill worker	28
+Elevators -- hydraulic	28
+Sulfuric acid	28
+Sodium and potassium hydroxide, potassium carbonate	28
+Multiple foods or groceries	28
+Packaging, wrapping, bundling machinery	28
+Partitions	27
+Propane	27
+Structures and surfaces, n.e.c.	27
+Window coverings, blinds, shades, or draperies	27
+Miscellaneous plastic items	27
+Axes, hatchets	27
+Bands	27
+Computers -- electronic	27
+Combines	27
+Chutes	26
+Casting machinery	26
+Co-worker, former co-worker of injured or ill worker, uns.	26
+Bungee cords	26
+Books, notebooks, magazines, catalogues	26
+Heating, cooling, and cleaning machinery and appliances, n.e.c.	26
+Guardrails, road dividers	26
+Wrenches -- power not determined	26
+Telephones and communication equipment	26
+Presses, except printing, n.e.c.	26
+Saws -- power not determined	26
+Printers and plotters -- computer	25
+Plumbing fixtures, n.e.c.	25
+Radiator	25
+Striking handtools -- nonpowered, n.e.c.	25
+Siding -- aluminum, vinyl	25
+Welding and heating handtools -- powered, n.e.c.	25
+Fish, shellfish	25
+Fire, flame, smoke, uns.	25
+Belts, gloves, neckties, scarves	25
+Animal products -- nonfood, n.e.c.	25
+Clothes washers	25
+Clothes dryers	24
+Cutting handtools -- nonpowered, uns.	24
+Art supplies and materials, except paint	24
+Belts, hoses	24
+Bleach--nonchlorine, nonperoxide	24
+Car or vehicle washing machinery	24
+Bulldozers	24
+Grinding, polishing machinery, uns.	24
+Switchboards, switches, fuses	24
+Resins	24
+Plants, trees, vegetation -- not processed, n.e.c.	24
+Printing machinery and equipment, n.e.c.	24
+Packaging, bottling, wrapping machinery, n.e.c.	24
+Other solvents, degreasers, n.e.c.	23
+Other steam, vapour, liquids, n.e.c.	23
+Plant and industrial vehicle -- nonpowered, uns.	23
+Sanders	23
+Tiles, shingles, uns.	23
+Hammers -- powered	23
+Light bulbs	23
+Brake presses	23
+Bolt cutters	23
+Backhoes	23
+Acids, n.e.c.	23
+Cathode ray tubes (CRTs) and video display terminals (VDTs)	23
+Ceiling tiles	23
+Compactors, crushers, pulverizers -- earth, mineral	22
+Cut-off saws	22
+Braces	22
+Mining and drilling machinery, n.e.c.	22
+Grinding, polishing machinery, n.e.c.	22
+Fencing and screening material, n.e.c.	22
+Fasteners, connectors, ropes, ties, n.e.c.	22
+Floor, wall, window coverings, n.e.c.	22
+Elevators, n.e.c.	22
+Other structural elements, uns.	22
+Motorcycle, moped	22
+Plant and industrial powered vehicles, uns.	21
+Pipe fittings	21
+Safety glasses or goggles	21
+Routers and molders -- powered	21
+Road grading and surfacing machinery, n.e.c.	21
+Sawing machinery -- stationary, uns.	21
+Presses -- printing	21
+Rats, rodents	21
+Washers, dryers, and cleaning machinery and appliances,  uns.	21
+Fan	21
+Handtools -- nonpowered, uns.	21
+Jacks -- mechanical	21
+Cutting handtools -- power not determined, n.e.c.	21
+Construction, logging, and mining machinery, n.e.c.	21
+Clothing, uns.	20
+Carbon dioxide, dry ice	20
+Drugs and medicines, n.e.c.	20
+Beverage heating and percolating equipment and appliances	20
+Lime	20
+Material handling machinery, n.e.c.	20
+Electronic computers and peripheral equipment, n.e.c.	20
+Windshields, vehicle windows	20
+Tobacco smoke, second-hand smoke	20
+Skidder--cable and grapple	20
+Protective equipment, except clothing, n.e.c.	20
+Scaffolds -- staging, n.e.c.	20
+Propeller-driven aircraft	19
+Other wood dust	19
+Snow plows	19
+Street sweeping and cleaning machinery	19
+Textile products, n.e.c.	19
+Machine, tool, and electric parts, uns.	19
+Broiling and frying equipment and appliances	19
+Augers -- power not determined	19
+Augers -- powered	19
+Chlorine and cleaning agent, n.e.c.	19
+Dimensinal lumber, uns.	18
+Audio and video equipment, n.e.c.	18
+Mammals, n.e.c.	18
+Medicines	18
+Fiberglass insulation	18
+Handtools -- power not determined, n.e.c.	18
+Special process machinery, n.e.c.	18
+Welding or soldering fumes	18
+Saw blades -- unattached	18
+Pools	18
+Power lines, transformers, convertors, unspecified	18
+Paint removers, thinners	17
+Non-environmental air pressure	17
+Snow skiing goods and equipment	17
+Suitcases	17
+Tars, sealants, caulking, insulation, uns.	17
+Tarps and sheeting, nonmetal, n.e.c.	17
+Grains, grain mill products	17
+Manlifts	17
+Machine and appliance parts, uns.	17
+Liquids, uns.	17
+Infectious and parasitic agents, n.e.c.	17
+Animals, uns.	17
+Agricultural and garden machinery, uns.	17
+Ceramic or stone tiles -- drain, roof, multipurpose	17
+Drilling machines, drilling augers	16
+Cooling and humidifying machinery and appliances, n.e.c.	16
+Acetone	16
+Aircraft -- powered fixed wing, uns.	16
+Bending, rolling, shaping machinery, n.e.c.	16
+Hydrogen sulfide	16
+Gears	16
+Other handtools -- nonpowered, uns.	16
+Sandblasters -- powered	16
+Roof shingles, except tile	16
+Offroad vehicle, nonindustrial, n.e.c.	15
+Movable ladders, n.e.c.	15
+Surfaces below ground level, n.e.c.	15
+Trowels	15
+Turning handtools -- nonpowered, n.e.c.	15
+Streetcar, trolley	15
+Spikes	15
+Welding torches -- powered	15
+X-ray, magnetic resonance imaging (MRI's), and fluoroscope machinery and equipment	15
+Foam caulking, foam insulation	15
+Jacks -- hydraulic	15
+Bones, shells	15
+Boring, drilling, planing, milling machinery, n.e.c.	15
+Ammonia, anhydrous ammonia	15
+Acids, uns.	15
+Animals, n.e.c.	15
+Bakery products, candy, confections, snack foods	15
+Aluminum and aluminum compounds	14
+Ammonia and ammonium compounds, uns.	14
+Boulders	14
+Drain and oven cleaners	14
+Derricks -- A-frame	14
+Hydrochloric acid	14
+Hydrogen peroxide	14
+Logging and wood processing machinery -- specialized, n.e.c.	14
+Meat grinders	14
+Firearm, uns.	14
+Sprayers -- paint	14
+Multiple chemicals or chemical mixtures, uns.	14
+Office and business machinery, n.e.c.	14
+Other fixtures, uns.	14
+Pianos	14
+Scrubbers -- powered	14
+Radios, stereos, and other audio equipment	14
+Printing machinery and equipment, uns.	13
+Screwdrivers -- power not determined	13
+Sewer gas, mine gas, uns.	13
+Ropes, ties, uns.	13
+Picks	13
+Shrubs, grasses	13
+Steam rollers, road pavers	13
+Synthetic detergents and shampoos	13
+Tars, sealants, caulking, insulation, n.e.c.	13
+Engine block	13
+Fungi	13
+Milling machines	13
+Hoisting accessories, n.e.c.	13
+Latex	13
+Conveyors -- powered, n.e.c.	13
+Cranes, n.e.c.	13
+Construction, logging, and mining machinery, uns.	13
+Calculating machines and cash registers	13
+Boilers	12
+Alkalis, unspecified.	12
+Cement, mortar mix -- dry	12
+Lighting equipment, uns.	12
+Heating, cooling, and cleaning machinery and appliances, uns.	12
+Mining and drilling machinery, uns.	12
+Methanol	12
+Hammers -- power not determined	12
+Ethylene glycol	12
+Electric parts, uns.	12
+Trash compactors	12
+Petroleum, crude oil	12
+Pens and pencils	12
+Other steam, vapors, liquids, uns.	12
+Other structures, uns.	12
+Other paint, lacquer, shellac, varnish	12
+Rulers, tape measures	12
+Sawing machinery -- stationary, n.e.c.	12
+Powerlines	12
+Plants, trees, vegetation, uns.	12
+Presses, except printing, uns.	11
+Punch presses	11
+Riveters -- powered	11
+Natural gas	11
+Pistol, handgun, revolver	11
+Stumps	11
+Hydrants	11
+Lamps	11
+Chippers	11
+Drugs and medicines, uns.	11
+Balers	11
+Aircraft, n.e.c.	11
+Alcohol, n.e.c.	11
+Alkalis, n.e.c.	10
+Air pressure, n.e.c.	10
+Bending, crimping machines	10
+Bullets	10
+Cranes -- overhead	10
+Lightning	10
+Lathes, uns.	10
+Herbicides, n.e.c.	10
+Extruding, injecting, forming, molding machinery, n.e.c.	10
+Golf cart, powered	10
+Suits, coats, jackets	10
+Structures and surfaces, uns.	10
+Slings	10
+Tiles, shingles, n.e.c.	10
+Truck mounted ladders, aerial ladder trams	10
+Shearing machines	10
+Sealants, waterproofers, n.e.c.	10
+Rail vehicle, uns.	10
+Respirators	10
+Plowing and cultivating machinery	9
+Photocopiers	9
+Painting, priming, metal coating machinery	9
+Mowing machinery, n.e.c.	9
+Other food products, uns.	9
+Textile, apparel, leather production machinery, n.e.c.	9
+Stacker carrier	9
+Sheet flooring	9
+Zinc and zinc compounds	9
+Water vehicle, uns.	9
+Gutters, downspouts	9
+Harvesting and threshing machinery, n.e.c.	9
+Garbage disposals	9
+Fluorotrichloromethane	9
+Earplugs and hearing protectors	9
+Face shields, welding masks	9
+Humidifiers, dehumidifiers, vaporizers	9
+Ladders -- fixed	9
+Dairy products	9
+Dishes, drinking cups, beverage glasses, uns.	9
+Chlorine compounds, n.e.c.	9
+Bucket or basket hoist -- truck mounted	9
+Canoe, kayak, rowboat, raft	9
+Bending, rolling, shaping machinery, uns.	9
+Blow torches	9
+Boring, drilling, planing, milling machinery, uns.	9
+Agitators, mixers--earth, mineral	9
+Animal waste products, including manure	9
+Chlorine compounds, uns.	8
+Coal, natural gas, petroleum fuels and products, uns.	8
+Drugs--nonmedicinal	8
+Conveyors -- gravity, uns.	8
+Helicopter	8
+Miscellaneous rubber products	8
+Motorboat, yachts	8
+Feed grinders, crushers, mixers -- agricultural	8
+Files	8
+Extruding, injecting, forming, molding machinery, uns.	8
+Engines, turbines, except vehicle	8
+Furniture and fixtures, uns.	8
+Water sports equipment	8
+Staplers -- power not determined	8
+Turkey	8
+Tool parts, accessories, uns.	8
+Mowing machinery, uns.	8
+Reach rider lift truck	8
+Propanol	8
+Processed materials	8
+Seafood	8
+Screwdrivers -- powered	7
+Sharpening stones and wheels	7
+Rivets	7
+Sanders -- power not determined	7
+Powered industrial carrier, n.e.c.	7
+Planing machines	7
+Other handtools -- powered, uns.	7
+Office,banking and retail machinery, n.e.c.	7
+Organic acids, n.e.c.	7
+Other building materials -- solid elements, uns.	7
+Pitchforks, sading forks	7
+Threading and tapping machines	7
+Special process machinery, uns.	7
+Silica	7
+Fabric pins, safety pins	7
+Motor home, recreational vehicle	7
+Metalworking lathes	7
+Knives -- powered	7
+Cooling and humidifying machinery and appliances, uns.	7
+Cutting handtools -- powered, uns.	7
+Digging handtools -- nonpowered, n.e.c.	7
+Apparel and textiles, n.e.c.	7
+Bookcases	7
+Beauty preparations, cosmetics, uns.	6
+Cameras -- still and motion picture	6
+Animal or human powered vehicle, n.e.c.	6
+Alcohol, uns.	6
+Conveyors -- screw, auger	6
+Clocks	6
+Laser cutting machinery	6
+Herbicides, unspecified	6
+Medical, surgical, and x-ray machinery and equipment, uns.	6
+Methyl ethyl ketone	6
+Dyes, inks	6
+Floor, wall, window coverings, uns.	6
+Sugar, cocoa, chocolate	6
+Urethanes	6
+Turning handtools -- powered, n.e.c.	6
+Petroleum fuels, distillates, products, uns.	6
+Packaging, bottling, wrapping machinery, uns.	6
+Overhead hoists, n.e.c.	6
+Order picker high lift truck	6
+Multiple cleaning and polishing agents	6
+Relays, rheostats, starters, controls	6
+Seed planting machinery	6
+Sewage	5
+Sewer gas	5
+Scaffolds -- self-supporting staging	5
+Scaffolds -- staging supported by structure or other means	5
+Product assembly machinery, n.e.c.	5
+Product testing, inspecting, and diagnostic machinery, n.e.c.	5
+Pulp and paper items	5
+Punches, counterpunches, countersinks	5
+Platform lift truck -- high or low lift	5
+Plastics, and resins, uns.	5
+Plastics, resins, n.e.c.	5
+Mowers -- tractor	5
+Paper production machinery, n.e.c.	5
+Paper production machinery, uns.	5
+Planes	5
+Tugboat, commercial fishing boat	5
+Temperature extremes -- environmental, n.e.c.	5
+Spreading machinery -- agricultural	5
+Subordinate(s) of injured or ill worker	5
+Water vehicle, n.e.c.	5
+Vinyl floor tiles	5
+Vending machines	5
+Writing, drawing, and art supplies, n.e.c.	5
+Eye glasses, sunglasses	5
+Escalators	5
+Ethanol	5
+Handtools -- powered, uns.	5
+Heating and cooking machinery and appliances, uns.	5
+Medical and surgical instruments, uns.	5
+Infectious and parasitic agents, uns.	5
+Keyboards -- computer	5
+Jewelry	5
+Kerosene, heating oil	5
+Conveyors -- chain	5
+Chicken	5
+Digging handtools -- nonpowered, uns.	5
+Agricultural and horticultural chemicals, n.e.c.	5
+Agricultural chemicals and other pesticides, uns.	5
+Arm saws, radial arm saws	5
+Bridges, dams, locks	5
+Calipers, micrometers	4
+Bindery machinery	4
+Bottling, canning, filling machinery	4
+Air pressure, uns.	4
+Cyanide and cyanide compounds, uns.	4
+Dairy and milk processing machinery -- specialized	4
+Cranes -- mobile, truck, rail mounted	4
+Chisels -- power not determined	4
+Clay -- natural and processed	4
+Lathes, n.e.c.	4
+Lacquer, shellac, varnish	4
+Highway vehicle, nonmotorized, uns.	4
+Hydrogen chloride	4
+Hides -- leather	4
+Hoisting accessories, uns.	4
+Hard hats	4
+Handbags, pocketbooks, wallets	4
+Fungicides	4
+Geese	4
+Gauges	4
+Elevators -- electric	4
+Floor of elevator	4
+Fasteners, connectors, ropes, ties, uns.	4
+Stapling tools -- electric or pneumatic	4
+Photographic equipment, n.e.c.	4
+Piers, wharfs	4
+Phosphoric acid	4
+Paint, lacquer, shellac, varnish, uns.	4
+Multiple handtools -- nonpowered	4
+Multiple acids	4
+Multiple solvents, degreasers	4
+Musical instruments, n.e.c.	4
+Nickel and nickel compounds	4
+Other chemical products -- general, uns.	4
+Other petroleum fuels, distillates, products, n.e.c.	4
+Sheep	4
+Shotgun	4
+Plowing, planting, and fertilizing machinery, n.e.c.	3
+Plowing, planting, and fertilizing machinery, uns.	3
+Polishes	3
+Pressure fluid cutting machinery	3
+Pressure lines, except hoses	3
+Other oxygen and oxygen compounds, n.e.c.	3
+Other oxygen and oxygen compounds, uns.	3
+Other environmental conditions, uns.	3
+Nitric acid	3
+Nitrogen oxides	3
+Multiple aromatics and hydrocarbon derivatives, except halogenated, n.e.c.	3
+Pellets	3
+Overhead hoists -- electric powered	3
+Overhead hoists -- manual	3
+Persons, plants, animals, and minerals, n.e.c.	3
+Pile drivers, tamping machinery	3
+Steaming equipment and appliances	3
+Structures, uns.	3
+Striking handtools -- nonpowered, uns.	3
+Spraying and dusting machinery -- agricultural	3
+Textile, apparel, leather production machinery, uns.	3
+Third party (supplier, visitor etc)	3
+Surfacing handtools -- power not determined, uns.	3
+Surfacing handtools -- powered, n.e.c.	3
+Trenchers	3
+Tire inner tubes	3
+Turning handtools -- power not determined, uns.	3
+Winders, unwinders	3
+Field crops	3
+Elevators -- hand operated	3
+Dyeing machinery, except textile	3
+Eye glasses, jewellery, and watches, n.e.c.	3
+Extruding machinery	3
+Formaldehyde	3
+Hair preparations	3
+Gripping handtools -- nonpowered, uns.	3
+Honing, polishing, lapping machinery	3
+Insecticides, n.e.c.	3
+Insecticides, uns.	3
+Juice, oil, fat extractors	3
+Knives -- power not determined	3
+Jacks -- pneumatic	3
+Mercury and compounds	3
+Measuring handtools -- nonpowered, uns.	3
+Containers -- variable restraint, n.e.c.	3
+Coal, natural gas, petroleum fuels and products, n.e.c.	3
+Conveyors -- live roller	3
+Drives -- chain, leather, fabric, vee belt	3
+Alcoholic beverages	3
+Ammonia and ammonium compounds, n.e.c.	3
+Ammonium hydroxide	3
+Assembly presses	3
+Animal products -- nonfood, uns.	3
+Birds, except fowl	3
+Birds and fowl, n.e.c.	3
+Briefcases	3
+Calcium hydroxide, calcium oxide, uns.	2
+Calcium hydroxide, calcium oxides, n.e.c.	2
+Birds and fowl, uns.	2
+Boring handtools -- powered, n.e.c	2
+Asphalt and mortar spreaders	2
+Apparel and textiles, uns.	2
+Automated teller machines	2
+Aircraft -- nonpowered, uns.	2
+Acetic acid, vinegar	2
+Conveyors -- pneumatic	2
+Conveyors -- wheel	2
+Cranes -- portal, tower, pillar	2
+Cyanates	2
+Coal and coal products, n.e.c.	2
+Centrifuges	2
+Mailing and metering machines	2
+Limestone, calcium carbonate	2
+Liquid nitrogen	2
+Metal ores--nonradiating	2
+Mine gas	2
+Jet	2
+Jet skis	2
+Lead and lead compounds, uns.	2
+Hoes	2
+Houseplants	2
+Highway vehicle, nonmotorized, n.e.c.	2
+Hair and hand dryers	2
+Grandstands, stadia	2
+Harvesting and threshing machinery, uns.	2
+Hats, caps	2
+Formalin	2
+Forging machinery	2
+Fur, wool	2
+Engine parts and accessories, uns.	2
+Feathers	2
+Floor of mine	2
+Firearm, n.e.c.	2
+Fishing equipment, commercial	2
+Fixtures, load indicators	2
+Vinyl chloride,  polyvinyl chloride	2
+Wall coverings	2
+Xylene	2
+Toluene	2
+Trichloroethylene	2
+Trim saws	2
+Turning handtools -- powered, uns.	2
+Turning handtools -- nonpowered, uns.	2
+Surfacing handtools -- nonpowered, uns.	2
+Surfaces below ground level, uns.	2
+Soldering irons -- powered	2
+Slitters, winders -- paper production	2
+Sulfur and sulfur compounds, n.e.c.	2
+Stapling tools -- nonpowered	2
+Straight ladders	2
+Striking and nailing handtools -- power not determined, n.e.c.	2
+Person -- injured or ill worker, uns.	2
+Peroxides, n.e.c.	2
+Paper, books, magazines, uns.	2
+Paint mixing machinery	2
+Multiple metallics and metallic compounds	2
+Naptha solvents	2
+Moving walkways	2
+Other inorganic acids, n.e.c.	2
+Other material handling machinery, uns.	2
+Other agricultural and garden machinery, uns.	2
+Offroad vehicle, nonindustrial, uns.	2
+Optical scanners	2
+Plumbing fixtures, uns.	2
+Pyrotechnics, fireworks	2
+Radiating metals, natural and processed, n.e.c.	2
+Punches -- power not determined	2
+Recreation and athletic equipment, uns.	2
+Recycling trucks	2
+Ships -- other than sail powered	2
+Sealing, stapling machinery	2
+Rifle	2
+Roofing paper, roofing felt	2
+Road grading and surfacing machinery, uns.	1
+Rodenticides	1
+Saplings	1
+Sailboat, sailing ship	1
+Seedlings	1
+Scouring powders	1
+Sewer gas, mine gas, n.e.c.	1
+Sewing notions, n.e.c.	1
+Riding goods and equipment	1
+Radiating metals, natural and processed, uns.	1
+Product labeling machinery	1
+Plastic injection molding machinery	1
+Plastic, vinyl caulking	1
+Powered industrial carrier, uns.	1
+Office and business machinery, uns.	1
+Organic lead compounds	1
+Other aromatics and hydrocarbon derivatives, except halogenated, n.e.c	1
+Other construction, logging, and mining machinery, uns.	1
+Other cyanide and cyanide compounds, n.e.c.	1
+Other explosives, blasting agents, n.e.c.	1
+Multiple agricultural and horticultural chemicals	1
+Multiple handtools -- power not determined	1
+Multiple drugs, medicines	1
+Nonmetallic minerals, except fuel, n.e.c.	1
+Nonmetallic minerals, except fuel, uns.	1
+Overhead hoists -- pneumatic powered	1
+Oxygen, nonliquified	1
+Other special process machinery, uns.	1
+Peroxides, uns.	1
+Photographic and copying solutions	1
+Picking, carding, combing machinery	1
+Pile extractors	1
+Striking and nailing handtools -- power not determined, uns.	1
+Steam and power shovels	1
+Straddle carrier	1
+Straddle rider lift truck	1
+Sulfur dioxide	1
+Subway and train tunnels	1
+Striking handtools -- powered, n.e.c.	1
+Skylights	1
+Sodium bicarbonate, baking soda	1
+Sodium carbonate, soda ash	1
+Single side loader rider truck	1
+Temperature extremes -- environmental, uns.	1
+Turning handtools -- power not determined, n.e.c.	1
+Tunneling machines	1
+Yarn, thread	1
+Video players and recorders -- tape and disk	1
+Weather and atmospheric conditions, n.e.c.	1
+Weather and atmospheric conditions, uns.	1
+Wells	1
+Flammable gas, uns.	1
+Flood	1
+Fertilizers, plant food, n.e.c.	1
+Fax machines	1
+Fabric pressers and ironing appliances	1
+Dryers -- paper production	1
+Fumigants, n.e.c.	1
+Flowers	1
+Fluorocarbons, n.e.c.	1
+Iodine and iodine compounds	1
+Inorganic lead compounds	1
+Hydrogen fluoride	1
+Hydrofluoric acid	1
+Levels	1
+Ketones, n.e.c.	1
+Mineral sorters, separators, concentrators	1
+Mines, caves, tunnels, uns.	1
+Moose	1
+Metallic minerals, n.e.c.	1
+Liquid hydrogen	1
+Log loaders, including heel boom	1
+Logging and wood processing machinery - -specialized, uns.	1
+Low pressure	1
+Magnesium and magnesium compounds	1
+Mechanical harvester, including feller-buncher	1
+Mammals, uns.	1
+Carbonates -- calcium, sodium, uns.	1
+Cash grain crops	1
+Chlorine and phosphoric acid	1
+Chlorine-containing oxyacids	1
+Chokers -- logging	1
+Chromium and chromium compounds	1
+Chalk, crayons, marking devices	1
+Computer mouse	1
+Containers -- pressurized, uns.	1
+Container carrier	1
+Containers -- variable restraint, uns.	1
+Conveyors -- bucket, cup	1
+Cryogenic gases, n.e.c.	1
+Cranes -- gantry	1
+Cranes -- hammerhead	1
+Dividers	1
+Debarkers	1
+Deer	1
+Diethyl ether	1
+Derricks -- basket	1
+Derricks, n.e.c.	1
+Acid gases, n.e.c.	1
+Ammonium nitrate	1
+Ammunition, n.e.c.	1
+Amusement park rail vehicle	1
+Ammonia and chlorine	1
+Aldehydes, n.e.c.	1
+Barge	1
+Bipyridyls	1
+Cadmium and cadmium compounds	1
+Carbamate and thiocarbamate herbicides	1
+Carbolic acids	1
+Braces -- power not determined	1
+Bromine and bromine compounds, n.e.c.	1

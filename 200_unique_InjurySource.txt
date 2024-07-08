@@ -1,0 +1,211 @@
+unique_value                                                 frequencies         
+--------------------------------------------------------------------------------
+Bodily motion or position of injured, ill worker             25973               
+Health care patient or resident of health care facility      6089                
+Viruses                                                      5513                
+Floor of building                                            4648                
+Person -- other than injured or ill worker, n.e.c.           4540                
+Noise                                                        4263                
+Boxes, crates, cartons                                       4139                
+Knives                                                       3332                
+Floors, walkways, ground surfaces, uns.                      3140                
+Ground                                                       3104                
+Bodily conditions of injured, ill worker                     3058                
+Unknown                                                      2501                
+Parking lots                                                 2178                
+Doors                                                        1947                
+Chips, particles, splinters, uns.                            1825                
+Needles and syringes                                         1786                
+Metal chips, particles                                       1701                
+Health care and orthopedic equipment, n.e.c.                 1529                
+Cart, dolly, handtruck                                       1509                
+Floors, walkways, ground surfaces, n.e.c.                    1437                
+Bags, sacks, totes                                           1323                
+Student                                                      1134                
+Parts and materials, n.e.c.                                  1076                
+Parts and materials, uns.                                    1058                
+Sidewalks, paths, outdoor walkways, n.e.c.                   1053                
+Skids, pallets                                               966                 
+Street, road                                                 917                 
+Tanks, bins, vats                                            886                 
+Semitrailer, tractor trailer, trailer truck                  834                 
+Truck, uns.                                                  822                 
+Vehicle and mobile equipment parts, n.e.c.                   789                 
+Bodily fluids or substances of person                        779                 
+Nails, brads, tacks                                          752                 
+Stairs, steps -- indoors                                     679                 
+Dogs                                                         671                 
+Bars, rods, reinforcing bar (rebar)                          669                 
+Buckets, baskets, pails                                      649                 
+Hammers                                                      636                 
+Tables, worktables                                           620                 
+Other floors, walkways, ground surfaces, uns.                595                 
+Trailers                                                     581                 
+Pots, pans, trays                                            574                 
+Automobile                                                   566                 
+Bus                                                          557                 
+Vehicle, uns.                                                551                 
+Stairs, steps -- outdoors                                    529                 
+Structural elements, n.e.c.                                  499                 
+Shovels                                                      498                 
+Other sources, n.e.c.                                        484                 
+Walls                                                        475                 
+Wrenches                                                     470                 
+Beds, bedding, mattresses                                    468                 
+Ramps, runways, loading docks                                467                 
+Water                                                        460                 
+Vehicles, n.e.c.                                             448                 
+Swine                                                        442                 
+Cases, cabinets, racks, shelves, n.e.c.                      442                 
+Plates, metal panels                                         433                 
+Plywood, wood paneling; particle, chip, flake board          433                 
+Chairs                                                       414                 
+Wheelchairs                                                  412                 
+Hoses                                                        409                 
+Stairs, steps, uns.                                          400                 
+Reels, rolls                                                 392                 
+Beams                                                        388                 
+Sheet metal                                                  374                 
+Food slicers                                                 369                 
+Truck, n.e.c.                                                365                 
+Prison inmate(s)                                             362                 
+Cabinets, cases--display, storage                            355                 
+Drills -- powered                                            350                 
+Shelving                                                     348                 
+Co-worker, former co-worker of injured or ill worker, n.e.c. 340                 
+Van -- passenger or light delivery                           306                 
+Metal pipe, tubing                                           298                 
+Crowbars                                                     296                 
+Gates                                                        292                 
+Pipes, ducts, tubing, uns.                                   285                 
+Forklift, unspecified                                        280                 
+Chips, particles, splinters, n.e.c.                          272                 
+Plant and industrial powered vehicle, n.e.c.                 270                 
+Bottles, jugs, flasks                                        268                 
+Cans                                                         266                 
+Person -- other than injured or ill worker, uns.             266                 
+Domestic Cats                                                263                 
+Fats, oils                                                   262                 
+Barrels, kegs, drums                                         257                 
+Strapping                                                    251                 
+Smoke, fire gases                                            247                 
+Hand grinders -- powered                                     247                 
+Sledges                                                      244                 
+Bundles, bales                                               241                 
+Ranges, cooking ovens, grills, toasters, food warmers        240                 
+Refrigerators, freezers, ice makers                          239                 
+Plant and industrial vehicle -- nonpowered, n.e.c.           239                 
+Insects, arachnids (spiders, ticks, scorpions, mosquitos)    237                 
+Floor, n.e.c.                                                235                 
+Rails                                                        233                 
+Recreation and athletic equipment, n.e.c.                    231                 
+Packages, parcels                                            231                 
+Tires, except bike                                           229                 
+Windows                                                      221                 
+Rocks, crushed stone                                         219                 
+Wheels, tire rims                                            218                 
+Wallboard, drywall                                           217                 
+Glass chips or fibers                                        217                 
+Pipes, ducts, tubing, n.e.c.                                 216                 
+Ladders, uns.                                                215                 
+Meat, poultry                                                214                 
+Drills                                                       211                 
+Customer                                                     208                 
+Garment racks, other racks                                   205                 
+Structural metal materials, n.e.c.                           205                 
+Electrical wiring                                            204                 
+Chemicals and chemical products, uns.                        203                 
+Handtools -- nonpowered, n.e.c.                              201                 
+Brooms, mops, and other cleaning tools                       200                 
+Beverages, n.e.c.                                            200                 
+Wood, lumber, uns.                                           198                 
+Ice, sleet, snow                                             197                 
+Highway vehicle, uns.                                        197                 
+Highway vehicle, motorized, n.e.c.                           196                 
+Machinery, uns.                                              196                 
+Grinders, abraders                                           196                 
+Metal materials -- nonstructural, uns.                       193                 
+Tools, instruments, and equipment, n.e.c.                    192                 
+Cutting handtools -- nonpowered, n.e.c.                      190                 
+Counters, counter tops                                       186                 
+Wood, lumber, n.e.c.                                         186                 
+Saws -- powered, except chainsaws                            183                 
+Wood chips                                                   179                 
+Supervisor of injured or ill worker (foreman, manager etc)   179                 
+Containers -- nonpressurized, n.e.c.                         179                 
+Floor, uns.                                                  177                 
+Other food products -- fresh or processed, n.e.c.            177                 
+Gymnasium and exercise equipment                             175                 
+Glass, window panes                                          174                 
+Desks                                                        169                 
+Stairs, steps, n.e.c.                                        168                 
+Chains, n.e.c.                                               165                 
+Asbestos                                                     162                 
+Other structures, n.e.c.                                     158                 
+Spot welding machinery                                       157                 
+Wire -- nonelectrical                                        157                 
+Food and beverage processing machinery -- specialized, n.e.c. 157                 
+Cutting blades (e.g. lawn mower)                             151                 
+Scrap, waste, debris, n.e.c.                                 151                 
+Other machinery, n.e.c.                                      150                 
+Cold -- environmental                                        150                 
+Floor of vehicle                                             149                 
+Drums, pulleys, sheaves                                      149                 
+Cases, cabinets, racks, shelves, uns.                        148                 
+Conveyors -- belt                                            144                 
+Cattle                                                       143                 
+Table saws                                                   141                 
+Structural metal materials, uns.                             140                 
+Movable ladders, uns.                                        140                 
+Metal materials -- nonstructural, n.e.c.                     139                 
+Fire, flame                                                  137                 
+Other cleaning and polishing agents, n.e.c.                  137                 
+Sawdust                                                      136                 
+Scissors, snips, shears                                      134                 
+Roof                                                         133                 
+Containers -- pressurized, n.e.c.                            133                 
+Nuts, bolts, washers                                         132                 
+Tear gas, mace                                               130                 
+Train                                                        128                 
+Branches, limbs                                              128                 
+Jacks, n.e.c.                                                128                 
+Beams, ties, square posts, (lumber whose dimensions are greater than  or equal to 4) 127                 
+Staples                                                      127                 
+Venom                                                        126                 
+Forklift, n.e.c.                                             125                 
+Electric parts, n.e.c.                                       124                 
+Sofas                                                        124                 
+Machine and appliance parts, n.e.c.                          123                 
+Drinking cups, beverage glasses                              122                 
+Carbon monoxide                                              119                 
+Fabric, sheets, linen                                        119                 
+Pumps                                                        119                 
+Furnaces, heaters                                            118                 
+Saws                                                         117                 
+Sun                                                          116                 
+Excavating machinery, n.e.c.                                 116                 
+Chemicals and chemical products, n.e.c.                      113                 
+Containers, n.e.c.                                           113                 
+Cleaning and polishing agents, uns.                          112                 
+Molten or hot metals, slag                                   112                 
+Dump truck                                                   111                 
+Tarps; plastic, or fabric sheeting                           111                 
+Tractor                                                      109                 
+Screwdrivers                                                 108                 
+Screws                                                       107                 
+Dishes, bowls                                                107                 
+Battery                                                      107                 
+Clamps, couplings                                            105                 
+Clothing, n.e.c.                                             105                 
+Tools, instruments, and equipment, uns.                      105                 
+Scrap, waste, debris, uns.                                   103                 
+Hooks, shackles, magnets, clamshells                         103                 
+Band saws                                                    102                 
+Tires, inner tubes, wheels, n.e.c.                           102                 
+Rollers                                                      101                 
+Pickup truck                                                 101                 
+Ducts                                                        101                 
+Concrete blocks, cinder blocks                               100                 
+Disinfectants                                                100                 
+Scaffolds -- staging, uns.                                   100                 
+Vacuum cleaners                                              99                  
