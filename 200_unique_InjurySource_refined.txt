@@ -1,0 +1,182 @@
+- [x] Bodily motion or position of injured, ill worker
+- [x] Health care patient or resident of health care facility
+- [x] Boxes, crates, cartons
+- [x] Parking lots
+- [x] Truck, uns OR n.e.c                                                                   
+- [x] Shovels                                                                       
+- [ ] Viruses                                                          
+- [ ] Person -- other than injured or ill worker, uns. OR n.e.c. Co-worker, former co-worker of injured or ill worker, uns. OR n.e.c.        
+- [ ] Noise
+- [ ] Knives       
+- [ ] Floors, walkways, ground surfaces, uns. OR n.e.c.
+- [ ] Ground              
+- [ ] Bodily conditions of injured, ill worker  
+- [ ] Unknown
+- [ ] Doors
+- [ ] Chips, particles, splinters, uns. OR n.e.c.  
+- [ ] Needles and syringes    
+- [ ] Metal chips, particles
+- [ ] Health care and orthopedic equipment, uns. OR n.e.c. 
+- [ ] Cart, dolly, handtruck           
+- [ ] Bags, sacks, totes      
+- [ ] Student                                                                      
+- [ ] Parts and materials, uns. OR n.e.c.                                                  
+- [ ] Sidewalks, paths, outdoor walkways, uns. OR n.e.c.                                   
+- [ ] Skids, pallets                                                                
+- [ ] Street, road                                                                  
+- [ ] Tanks, bins, vats                                                             
+- [ ] Semitrailer, tractor trailer, trailer truck                                   
+- [ ] Vehicle and mobile equipment parts, uns. OR n.e.c.                                    
+- [ ] Bodily fluids or substances of person                                         
+- [ ] Nails, brads, tacks                                                           
+- [ ] Stairs, steps -- indoors                                                      
+- [ ] Dogs                                                                          
+- [ ] Bars, rods, reinforcing bar (rebar)                                           
+- [ ] Buckets, baskets, pails                                                       
+- [ ] Hammers                                                                       
+- [ ] Tables, worktables                                                            
+- [ ] Trailers                                                                      
+- [ ] Pots, pans, trays                                                             
+- [ ] Automobile                                                                    
+- [ ] Bus                                                                           
+- [ ] Vehicle, uns. OR n.e.c                                                              
+- [ ] Stairs, steps -- outdoors                                                     
+- [ ] Structural elements, uns. OR n.e.c.        
+- [ ] ==Other sources, n.e.c.==                                                         
+- [ ] Walls                                                                         
+- [ ] Wrenches                                                                      
+- [ ] Beds, bedding, mattresses                                                     
+- [ ] Ramps, runways, loading docks                                                 
+- [ ] Water                                                                         
+- [ ] Swine                                                                         
+- [ ] Cases, cabinets, racks, shelves, uns. OR n.e.c.                                       
+- [ ] Plates, metal panels                                                          
+- [ ] Plywood, wood paneling; particle, chip, flake board                           
+- [ ] Chairs                                                                        
+- [ ] Wheelchairs                                                                   
+- [ ] Hoses                                                                         
+- [ ] Stairs, steps, uns. OR n.e.c.                                                           
+- [ ] Reels, rolls                                                                  
+- [ ] Beams                                                                         
+- [ ] Sheet metal                                                                   
+- [ ] Food slicers                                                                  
+- [ ] Prison inmate(s)                                                              
+- [ ] Cabinets, cases--display, storage                                             
+- [ ] Drills -- powered                                                             
+- [ ] Van -- passenger or light delivery                                            
+- [ ] Metal pipe, tubing                                                            
+- [ ] Crowbars                                                                      
+- [ ] Gates                                                                         
+- [ ] Pipes, ducts, tubing, uns. OR n.e.c.                                                   
+- [ ] Plant and industrial powered vehicle, uns. OR n.e.c.                                  
+- [ ] Bottles, jugs, flasks                                                         
+- [ ] Cans                                                                          
+- [ ] Domestic Cats                                                                 
+- [ ] Fats, oils                                                                    
+- [ ] Barrels, kegs, drums                                                          
+- [ ] Strapping                                                                     
+- [ ] Smoke, fire gases                                                             
+- [ ] Hand grinders -- powered                                                    
+- [ ] Sledges                                                                       
+- [ ] Bundles, bales                                                                
+- [ ] Ranges, cooking ovens, grills, toasters, food warmers        
+- [ ] Refrigerators, freezers, ice makers                                           
+- [ ] Plant and industrial vehicle -- nonpowered, uns. OR n.e.c.                            
+- [ ] Insects, arachnids (spiders, ticks, scorpions, mosquitos)                     
+- [ ] Rails                                                                         
+- [ ] Recreation and athletic equipment, uns. OR n.e.c.                                     
+- [ ] Packages, parcels                                                             
+- [ ] Tires, except bike OR Tires, inner tubes, wheels, uns. OR n.e.c.                                                             
+- [ ] Windows                                                                       
+- [ ] Rocks, crushed stone                                                          
+- [ ] Wheels, tire rims                                                             
+- [ ] Wallboard, drywall                                                            
+- [ ] Glass chips or fibers                                                         
+- [ ] Ladders, uns. OR n.e.c.                                                                 
+- [ ] Meat, poultry                                                                 
+- [ ] Drills                                                                        
+- [ ] Customer                                                                      
+- [ ] Garment racks, other racks                                                   
+- [ ] Structural metal materials, uns. OR n.e.c.                                            
+- [ ] Electrical wiring                                                             
+- [ ] Chemicals and chemical products, uns. OR n.e.c.                                         
+- [ ] Handtools -- nonpowered, uns. OR n.e.c.                                               
+- [ ] Brooms, mops, and other cleaning tools                                        
+- [ ] Beverages, uns. OR n.e.c.                                                             
+- [ ] Wood, lumber, uns. OR n.e.c.                                                           
+- [ ] Ice, sleet, snow                                                              
+- [ ] Highway vehicle, uns. OR n.e.c. OR Highway vehicle, motorized, uns. OR n.e.c.                                                         
+- [ ] Machinery, uns. OR n.e.c. OR Other machinery, uns. OR n.e.c.                                                       
+- [ ] Grinders, abraders                                                            
+- [ ] Metal materials -- nonstructural, uns. OR n.e.c.                                     
+- [ ] Tools, instruments, and equipment, uns. OR n.e.c.                                     
+- [ ] Cutting handtools -- nonpowered, uns. OR n.e.c.                      
+- [ ] Counters, counter tops                                                        
+- [ ] Saws -- powered, except chainsaws                                             
+- [ ] Wood chips                                                                    
+- [ ] Supervisor of injured or ill worker (foreman, manager etc)                    
+- [ ] Containers -- nonpressurized, uns. OR n.e.c.                                          
+- [ ] Other food products -- fresh or processed, uns. OR n.e.c.            
+- [ ] Gymnasium and exercise equipment                                              
+- [ ] Glass, window panes                                                           
+- [ ] Desks                                                                         
+- [ ] Chains, uns. OR n.e.c.                                                                
+- [ ] Asbestos                                                                      
+- [ ] Other structures, uns. OR n.e.c.                                                      
+- [ ] Spot welding machinery                                                        
+- [ ] Wire -- nonelectrical                                                         
+- [ ] Food and beverage processing machinery -- specialized, uns. OR n.e.c.                  
+- [ ] Cutting blades (e.g. lawn mower)                                              
+- [ ] Scrap, waste, debris, uns. OR n.e.c.                                                  
+- [ ] Cold -- environmental                                                         
+- [ ] Floor of vehicle                                                              
+- [ ] Drums, pulleys, sheaves                                                       
+- [ ] Conveyors -- belt                                                             
+- [ ] Cattle                                                                        
+- [ ] Table saws                                                   
+- [ ] Movable ladders, uns. OR n.e.c.                                                         
+- [ ] Fire, flame                                                                   
+- [ ] Cleaning and polishing agents, uns. OR n.e.c. OR Other cleaning and polishing agents, uns. OR n.e.c.                     
+- [ ] Sawdust                                                                       
+- [ ] Scissors, snips, shears                                                       
+- [ ] Roof                                                                          
+- [ ] Containers -- pressurized, uns. OR n.e.c.                                             
+- [ ] Nuts, bolts, washers                                                          
+- [ ] Tear gas, mace                                                                
+- [ ] Train                                                                         
+- [ ] Branches, limbs                                                               
+- [ ] Jacks, uns. OR n.e.c.                                                                 
+- [ ] Beams, ties, square posts, (lumber whose dimensions are greater than  or equal to 4)                  
+- [ ] Staples                                                                       
+- [ ] Venom                                                                         
+- [ ] Forklift, uns. OR n.e.c.                                                              
+- [ ] Electric parts, uns. OR n.e.c.                                                        
+- [ ] Sofas                                                                         
+- [ ] Machine and appliance parts, uns. OR n.e.c.                                           
+- [ ] Drinking cups, beverage glasses                                               
+- [ ] Carbon monoxide                                                               
+- [ ] Fabric, sheets, linen                                                         
+- [ ] Pumps                                                                         
+- [ ] Furnaces, heaters                                                             
+- [ ] Saws                                                                          
+- [ ] Sun                                                                           
+- [ ] Excavating machinery, uns. OR n.e.c.                                                  
+- [ ] Molten or hot metals, slag                                                    
+- [ ] Dump truck                                                                    
+- [ ] Tarps; plastic, or fabric sheeting                                            
+- [ ] Tractor                                                                       
+- [ ] Screwdrivers                                                                  
+- [ ] Screws                                                                        
+- [ ] Dishes, bowls                                                                 
+- [ ] Battery                                                                       
+- [ ] Clamps, couplings                                                             
+- [ ] Clothing, uns. OR n.e.c.                                                              
+- [ ] Hooks, shackles, magnets, clamshells                                          
+- [ ] Band saws                                                                     
+- [ ] Rollers                                                                       
+- [ ] Pickup truck                                                                  
+- [ ] Ducts                                                                         
+- [ ] Concrete blocks, cinder blocks                                                
+- [ ] Disinfectants                                                                 
+- [ ] Scaffolds -- staging, uns. OR uns.                                               
+- [ ] Vacuum cleaners                                                                
