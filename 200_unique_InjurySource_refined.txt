@@ -4,20 +4,18 @@
 - [x] Parking lots
 - [x] Truck, uns OR n.e.c                                                                   
 - [x] Shovels                                                                       
-- [ ] Viruses                                                          
-- [ ] Person -- other than injured or ill worker, uns. OR n.e.c. Co-worker, former co-worker of injured or ill worker, uns. OR n.e.c.        
-- [ ] Noise
-- [ ] Knives       
-- [ ] Floors, walkways, ground surfaces, uns. OR n.e.c.
-- [ ] Ground              
+- [x] Viruses                                                          
+- [x] Person -- other than injured or ill worker, uns. OR n.e.c. Co-worker, former co-worker of injured or ill worker, uns. OR n.e.c.        
+- [x] Noise
+- [x] Knives       
+- [x] Floors, walkways, ground surfaces, uns. OR n.e.c.
 - [ ] Bodily conditions of injured, ill worker  
-- [ ] Unknown
-- [ ] Doors
-- [ ] Chips, particles, splinters, uns. OR n.e.c.  
-- [ ] Needles and syringes    
-- [ ] Metal chips, particles
-- [ ] Health care and orthopedic equipment, uns. OR n.e.c. 
-- [ ] Cart, dolly, handtruck           
+- [x] Doors
+- [x] Chips, particles, splinters, uns. OR n.e.c.  
+- [x] Needles and syringes    
+- [x] Metal chips, particles
+- [x] Health care and orthopedic equipment, uns. OR n.e.c. 
+- [x] Cart, dolly, handtruck           
 - [ ] Bags, sacks, totes      
 - [ ] Student                                                                      
 - [ ] Parts and materials, uns. OR n.e.c.                                                  
@@ -42,7 +40,6 @@
 - [ ] Vehicle, uns. OR n.e.c                                                              
 - [ ] Stairs, steps -- outdoors                                                     
 - [ ] Structural elements, uns. OR n.e.c.        
-- [ ] ==Other sources, n.e.c.==                                                         
 - [ ] Walls                                                                         
 - [ ] Wrenches                                                                      
 - [ ] Beds, bedding, mattresses                                                     
