@@ -178,19 +178,19 @@ async def main():
         "Sun",
         "Excavating machinery, uns. OR n.e.c.",
         "Molten or hot metals, slag",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-
+        "Screwdrivers",
+        "Dishes, bowls",
+        "Battery",
+        "Clamps, coupling",
+        "Clothing, uns. OR n.e.c.",
+        "Hooks, shackles, magnets, clamshells",
+        "Band saws",
+        "Table saws",
+        "Rollers",
+        "Concrete blocks, cinder blocks",
+        "Disinfectants",
+        "Scaffolds -- staging, uns. OR uns.",
+        "Vacuum cleaners"
         
     ]
     num_entries = 1
