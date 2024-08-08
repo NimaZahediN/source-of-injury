@@ -39,20 +39,25 @@ async def generate_claims(
         prompt = f"""
         Generate {num_entries} workers compensation claims related to the injury source: "{injury_source}".
         Each claim should include:
-            1. An incident description written as if by the injured worker. Vary in detail, clarity, and style. Include complex scenarios with multiple objects/actions.
-            2. Concise expert reasoning (20+ years experience) towards determining the InjurySource. Use nuanced, domain-specific knowledge and claim coding standards. Keep it brief and in third-person perspective.
-            3. The determined injury source, using only the name without any codes.
+        1. An incident description written as if by the injured worker. Vary in detail, clarity, and style. Include complex scenarios with multiple objects/actions.
+        2. Concise expert reasoning (20+ years experience) towards determining the InjurySource. Use nuanced, domain-specific knowledge and claim coding standards. Keep it brief and in third-person perspective.
+        3. The determined injury source, using only the name without any codes.
 
-        Guidelines:
-        - Ensure incident descriptions genuinely resemble reports written by workers, not professionals.
-        - Vary vocabulary, phrases, and linguistic patterns significantly.
-        - Use indirect indicators that allow inference of the injury source.
-        - Include diverse locations and situations.
-        - Make incident descriptions lengthier and more challenging over time.
-        - Ensure expert-level complexity in the reasoning, but keep it concise.
+    Guidelines:
+    - Treat the provided injury source as a single category, even if it contains multiple words or commas.
+    - Ensure incident descriptions genuinely resemble reports written by workers, not professionals.
+    - Vary vocabulary, phrases, and linguistic patterns significantly.
+    - Use indirect indicators that allow inference of the injury source.
+    - Include diverse locations and situations.
+    - Make incident descriptions lengthier and more challenging over time.
+    - Ensure expert-level complexity in the reasoning, but keep it concise.
 
-        Do not use placeholder text or repeat the same claim multiple times.
-        """
+    Example:
+    For the injury source "Nails, brads, tacks":
+    InjurySource: Nails, brads, tacks
+
+    Do not use placeholder text or repeat the same claim multiple times.
+    """
 
         try:
             claims = await async_client.chat.completions.create(
@@ -70,7 +75,7 @@ async def generate_claims(
 async def create_synthetic_claims(
     injury_sources: List[str], 
     num_entries: int, 
-    max_concurrency: int = 5
+    max_concurrency: int = 20
 ) -> List[WorkersCompClaim]:
     semaphore = asyncio.Semaphore(max_concurrency)
     tasks = [generate_claims(source, num_entries, semaphore) for source in injury_sources]
@@ -95,7 +100,7 @@ async def main():
         "Pots, pans, trays",
         "Bus"       
     ]
-    num_entries = 10
+    num_entries = 2
 
     claims = await create_synthetic_claims(injury_sources, num_entries)
 
